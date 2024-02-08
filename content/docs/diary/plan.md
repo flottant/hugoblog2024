@@ -131,3 +131,11 @@ type: docs
 
 + 操作系统
  + 5：操作系统：维基百科上相应的知识点
+
+本文整理自下列前辈经验，在此一并表示感谢。
+https://zhuanlan.zhihu.com/p/654309811
+https://zhuanlan.zhihu.com/p/656030033
+https://zhuanlan.zhihu.com/p/407686799
+https://zhuanlan.zhihu.com/p/80843864
+https://zhuanlan.zhihu.com/p/248689564
+https://tieba.baidu.com/p/7014344177
