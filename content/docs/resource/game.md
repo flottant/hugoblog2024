@@ -3,6 +3,8 @@ title: 游戏资源
 type: docs
 ---
 
+https://voltaic-shift-6b0.notion.site/749df66fe49f4903936062709b7f737a?v=ba1fa0c20fe442bebd2367d4c25bc2d2 黄油资源站
+
 https://steamzg.com/ 无需注册
 
 https://steamrip.com/ 未知
