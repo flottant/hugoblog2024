@@ -7,6 +7,4 @@ Github是 https://github.com/flottant 。
 
 在备考 TOEFL 和 JLPT 。
 
-看看色图吧。
-
-![image](https://api.asxe.vip/random.php)
+机械、计算机进修中。
