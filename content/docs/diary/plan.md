@@ -120,22 +120,27 @@ type: docs
   + 1：希腊奶
 
 + 图像处理
- + 1：希腊奶
- + 5：OpenCV中经典函数的学习
+  + 1：希腊奶
+  + 5：OpenCV中经典函数的学习
 
 + 自动机
- + 4：《オートマトン形式言語理論》
+  + 4：《オートマトン形式言語理論》
 
 + OS
- + 4：了解进程等基础知识
+  + 4：了解进程等基础知识
 
 + 操作系统
- + 5：操作系统：维基百科上相应的知识点
+  + 5：操作系统：维基百科上相应的知识点
 
 本文整理自下列前辈经验，在此一并表示感谢。
 https://zhuanlan.zhihu.com/p/654309811
+
 https://zhuanlan.zhihu.com/p/656030033
+
 https://zhuanlan.zhihu.com/p/407686799
+
 https://zhuanlan.zhihu.com/p/80843864
+
 https://zhuanlan.zhihu.com/p/248689564
+
 https://tieba.baidu.com/p/7014344177
