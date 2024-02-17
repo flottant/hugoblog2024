@@ -5,9 +5,9 @@ sidebar:
   open: false
 ---
 {{< cards >}}
-  {{< card link="./diary/202401" title="2024 年 1 月" icon="book-open" >}}
+  {{< card link="./202401" title="2024 年 1 月" icon="book-open" >}}
 {{< /cards >}}
 
 {{< cards >}}
-  {{< card link="./diary/202402" title="2024 年 2 月" icon="book-open" >}}
+  {{< card link="./202402" title="2024 年 2 月" icon="book-open" >}}
 {{< /cards >}}
