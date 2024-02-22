@@ -8,12 +8,12 @@ sidebar:
 
 动图测试
 
-![图床测试](./_indeximg/sorry.gif)
+![图床测试](/images/_indeximg/sorry.gif)
 
 大图测试
 
-![图床测试](./_indeximg/miku.jpg)
+![图床测试](/images/_indeximg/miku.jpg)
 
 加载速度测试
 
-![图床测试](./_indeximg/test.png)
+![图床测试](/images/_indeximg/test.png)
